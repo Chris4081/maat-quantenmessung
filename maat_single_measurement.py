@@ -3,6 +3,7 @@
 # This script simulates a single quantum measurement of a spin system (|↑⟩ and |↓⟩)
 # using the Maat value instead of standard quantum probabilities.
 # Maat = (Harmony * Balance * Creativity * Connection * Respect) / EnergyFluctuation
+# See model description in README_EN.md under "📊 The Maat Model"
 # Author: Christof Krieg (2025)
 
 
