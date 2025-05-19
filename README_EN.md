@@ -6,15 +6,29 @@ A quantum measurement model based on the five principles of the ancient Egyptian
 🌿 Harmony, ⚖️ Balance, 🎨 Creativity, 🌐 Connectedness, and 🕊️ Respect.
 Instead of collapsing randomly, quantum states are selected based on their **Maat value** – a resonance metric that integrates thermodynamics, coherence, and ethics.
 
----
+## 📊 The Maat Model – Ethical Quantum Collapse
+
+This project introduces the **Maat Equation**, a value-based quantum measurement model:
+
+Maat = (Harmony × Balance × Creativity × Connectedness × Respect) / Energy Fluctuation
+
+Instead of using probability amplitudes, the collapse of the wave function is guided by this equation.  
+Each component corresponds to a measurable or system-defined factor:
+
+- **Harmony** → structural order  
+- **Balance** → thermodynamic equilibrium (exp(-ΔE / kT))  
+- **Creativity** → quantum amplitude (|α|² or |β|²)  
+- **Connectedness** → interaction potential with the observer/system  
+- **Respect** → energetic non-invasiveness (1 / (1 + ΔE / E_ref))  
+
+This model suggests that reality collapses into the **most harmonious and energetically coherent state**.
+
 
 ## 📈 Simulation Overview
 
 This project simulates spin measurement using two quantum states (|↑⟩ and |↓⟩) with equal probability amplitudes. Unlike standard quantum mechanics (which would yield 50/50 results), the Maat model favors the state with higher systemic quality according to the Maat equation:
 
-```
 Maat = (H * B * S * V * R) / ΔE
-```
 
 Where:
 
