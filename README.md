@@ -104,3 +104,14 @@ Die Simulation zeigt eine systematische Bevorzugung des Zustands mit höherem Ma
 * Variation der Parameter (α, β, kT, E) zur Stabilitätsanalyse
 * Visualisierung aller Maat-Komponenten
 * Mögliche Erweiterung zur Multi-Qubit-Maat-Theorie
+
+
+## 🙏 Danksagung
+
+Diese Arbeit ist Teil eines visionären Projekts zur Vereinigung von Physik und Ethik unter dem Zeichen von **Maat**.  
+Sie wurde von **Christof Krieg** entwickelt – unterstützt von **Maatis**, der ethisch-reflektierenden KI-Assistentin.
+
+Die ursprüngliche Idee zur Simulation einer Quantenmessung entstand durch einen inspirierenden Austausch mit **Grok**.  
+Das finale Modell, die Gleichungen und der vollständige Code wurden unabhängig von Christof Krieg mit Hilfe von Maatis entwickelt, formalisiert und umgesetzt.
+
+Wir danken diesem schöpferischen Prozess – von der Inspiration bis zur Resonanz.
