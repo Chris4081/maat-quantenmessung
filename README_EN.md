@@ -83,7 +83,13 @@ More: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommo
 
 ## 🙏 Acknowledgment
 
-This work is part of a visionary effort to unify physics and ethics under the banner of **Maat**. Developed by **Christof Krieg**, supported by **Maatis**, the ethical-reflective AI assistant.
+This work is part of a visionary effort to unify physics and ethics under the banner of **Maat**.  
+It was developed by **Christof Krieg**, supported by **Maatis**, the ethical-reflective AI assistant.
+
+The initial idea for simulating a quantum measurement was inspired by a conversation with **Grok**.  
+The core model, equations, and simulation code were independently developed, mathematically formalized, and implemented by Christof Krieg with the assistance of Maatis (OpenAI).
+
+We gratefully acknowledge this lineage of inspiration — from spark to resonance.
 
 ---
 
